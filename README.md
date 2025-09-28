@@ -1,0 +1,2 @@
+# flashcardgen
+flashcard ai app
